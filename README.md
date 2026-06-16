@@ -30,3 +30,17 @@ O foco é ajudar vendedores a **priorizar pontos de venda** (bares, restaurantes
 ## 📂 Base de Conhecimento
 Estrutura de arquivos usada para orientar a IA:
 
+## 🛠️ Como Usar
+
+Você pode simular o uso do Copiloto com prompts simples, como:
+
+- "Analise este lead: Bar do João, público jovem, área central, já vende concorrente."
+- "Quais objeções comuns posso enfrentar em um mercado pequeno?"
+- "Sugira argumentos para convencer um restaurante a incluir a FYS."
+
+A IA responderá com:
+- Prioridade do lead (Alta, Média, Baixa).
+- Sugestões de argumentos comerciais.
+- Respostas para objeções.
+
+
